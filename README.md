@@ -1,2 +1,3 @@
 # swift-combine-stories
-Learn Swift Combine and apply unit testing.
+
+Each branch tells a story.
