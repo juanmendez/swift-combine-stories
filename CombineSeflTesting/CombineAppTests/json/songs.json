@@ -1,0 +1,534 @@
+[
+    {
+        "songId": 1,
+        "name": "The Getaway",
+        "time": "04:10:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 2,
+        "name": "Dark Necessities",
+        "time": "05:02:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 3,
+        "name": "We Turn Red",
+        "time": "03:20:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 4,
+        "name": "The Longest Wave",
+        "time": "03:31:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 5,
+        "name": "Goodbye Angels",
+        "time": "04:29:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 6,
+        "name": "Sick Love",
+        "time": "03:41:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 7,
+        "name": "Go Robot",
+        "time": "04:24:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 8,
+        "name": "Feasting on the Flowers",
+        "time": "03:23:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 9,
+        "name": "Detroit",
+        "time": "03:47:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 10,
+        "name": "This Ticonderoga",
+        "time": "03:35:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 11,
+        "name": "Encore",
+        "time": "04:11:00",
+        "bandId": 2,
+        "albumId": 1
+    },
+    {
+        "songId": 12,
+        "name": "The Hunter",
+        "time": "04:00:00",
+        "bandId": 1,
+        "albumId": 1
+    },
+    {
+        "songId": 13,
+        "name": "Dreams of a Samurai",
+        "time": "06:09:00",
+        "bandId": 1,
+        "albumId": 1
+    },
+    {
+        "songId": 14,
+        "name": "Reckless Life",
+        "time": "03:21:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 15,
+        "name": "Nice Boys",
+        "time": "03:02:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 16,
+        "name": "Move to the City",
+        "time": "03:34:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 17,
+        "name": "Mama Kin",
+        "time": "03:41:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 18,
+        "name": "Shadow of Your Love",
+        "time": "03:03:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 19,
+        "name": "You're Crazy",
+        "time": "04:25:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 20,
+        "name": "Patience",
+        "time": "05:54:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 21,
+        "name": "Used to Love Her",
+        "time": "03:13:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 22,
+        "name": "You're Crazy",
+        "time": "04:10:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 23,
+        "name": "It's So Easy",
+        "time": "03:54:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 24,
+        "name": "Knockin' on Heaven's Door",
+        "time": "04:59:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 25,
+        "name": "Whole Lotta Rosie",
+        "time": "04:06:00",
+        "bandId": 1,
+        "albumId": 2
+    },
+    {
+        "songId": 26,
+        "name": "Blackened",
+        "time": "06:41:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 27,
+        "name": "...And Justice for All",
+        "time": "09:47:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 28,
+        "name": "Eye of the Beholder",
+        "time": "06:30:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 29,
+        "name": "One",
+        "time": "07:27:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 30,
+        "name": "The Shortest Straw",
+        "time": "06:36:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 31,
+        "name": "Harvester of Sorrow",
+        "time": "05:46:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 32,
+        "name": "The Frayed Ends of Sanity",
+        "time": "07:44:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 33,
+        "name": "To Live Is to Die",
+        "time": "09:49:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 34,
+        "name": "Dyers Eve",
+        "time": "05:13:00",
+        "bandId": 7,
+        "albumId": 3
+    },
+    {
+        "songId": 35,
+        "name": "Live and Let Die",
+        "time": "03:04:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 36,
+        "name": "Don't Cry",
+        "time": "04:44:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 37,
+        "name": "You Ain't the First",
+        "time": "02:36:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 38,
+        "name": "November Rain",
+        "time": "08:57:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 39,
+        "name": "The Garden",
+        "time": "05:22:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 40,
+        "name": "Dead Horse",
+        "time": "04:17:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 41,
+        "name": "Civil War",
+        "time": "07:42:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 42,
+        "name": "14 Years",
+        "time": "04:21:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 43,
+        "name": "Yesterdays",
+        "time": "03:16:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 44,
+        "name": "Knockin' on Heaven's Door",
+        "time": "05:20:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 45,
+        "name": "Estranged",
+        "time": "09:23:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 46,
+        "name": "Don't Cry",
+        "time": "04:43:00",
+        "bandId": 1,
+        "albumId": 4
+    },
+    {
+        "songId": 47,
+        "name": "Blitzkrieg Bop",
+        "time": "02:12:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 48,
+        "name": "Beat on the Brat",
+        "time": "02:30:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 49,
+        "name": "Judy Is a Punk",
+        "time": "01:30:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 50,
+        "name": "I Wanna Be Your Boyfriend",
+        "time": "02:24:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 51,
+        "name": "Chain Saw",
+        "time": "01:55:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 52,
+        "name": "Now I Wanna Sniff Some Glue",
+        "time": "01:34:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 53,
+        "name": "I Don't Wanna Go Down to the Basement",
+        "time": "02:35:00",
+        "bandId": 3,
+        "albumId": 5
+    },
+    {
+        "songId": 54,
+        "name": "L.A.M.F.",
+        "time": "01:23:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 55,
+        "name": "Face Down in the Dirt",
+        "time": "03:44:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 56,
+        "name": "What's It Gonna Take",
+        "time": "03:45:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 57,
+        "name": "Down at the Whisky",
+        "time": "03:50:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 58,
+        "name": "Saints of Los Angeles",
+        "time": "03:40:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 59,
+        "name": "Mutherfucker of the Year",
+        "time": "03:55:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 60,
+        "name": "The Animal in Me",
+        "time": "04:16:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 61,
+        "name": "Welcome to the Machine",
+        "time": "03:00:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 62,
+        "name": "Just Another Psycho",
+        "time": "03:36:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 63,
+        "name": "Chicks = Trouble",
+        "time": "03:13:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 64,
+        "name": "This Ain't a Love Song",
+        "time": "03:25:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 65,
+        "name": "White Trash Circus",
+        "time": "02:51:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 66,
+        "name": "Goin' Out Swingin'",
+        "time": "03:27:00",
+        "bandId": 5,
+        "albumId": 6
+    },
+    {
+        "songId": 67,
+        "name": "Bombtrack",
+        "time": "04:04:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 68,
+        "name": "Killing in the Name",
+        "time": "05:14:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 69,
+        "name": "Take the Power Back",
+        "time": "05:37:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 70,
+        "name": "Settle for Nothing",
+        "time": "04:48:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 71,
+        "name": "Bullet in the Head",
+        "time": "05:07:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 72,
+        "name": "Know Your Enemy",
+        "time": "04:55:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 73,
+        "name": "Wake Up",
+        "time": "06:04:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 74,
+        "name": "Fistful of Steel",
+        "time": "05:31:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 75,
+        "name": "Township Rebellion",
+        "time": "05:24:00",
+        "bandId": 6,
+        "albumId": 7
+    },
+    {
+        "songId": 76,
+        "name": "Freedom",
+        "time": "06:06:00",
+        "bandId": 6,
+        "albumId": 7
+    }
+]
