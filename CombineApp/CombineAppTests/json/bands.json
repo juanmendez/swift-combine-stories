@@ -1,0 +1,30 @@
+[
+    {
+        "bandId": 1,
+        "name": "Guns n’ Roses"
+    },
+    {
+        "bandId": 2,
+        "name": "Red Hot Chilli Peppers"
+    },
+    {
+        "bandId": 3,
+        "name": "Ramones"
+    },
+    {
+        "bandId": 4,
+        "name": "Motorhead"
+    },
+    {
+        "bandId": 5,
+        "name": "Motley Crue"
+    },
+    {
+        "bandId": 6,
+        "name": "Rage against the machine"
+    },
+    {
+        "bandId": 7,
+        "name": "Metallica"
+    }
+]

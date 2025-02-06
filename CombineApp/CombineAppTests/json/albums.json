@@ -1,0 +1,51 @@
+[
+        {
+        "albumId": 1,
+        "bandId": 2,
+        "name": "The Gateway",
+        "year": 2016,
+        "url": "https://en.wikipedia.org/wiki/The_Getaway_(Red_Hot_Chili_Peppers_album)"
+        },
+        {
+        "albumId": 2,
+        "bandId": 1,
+        "name": "Appetite for Destruction",
+        "year": 1987,
+        "url": "https://en.wikipedia.org/wiki/Appetite_for_Destruction"
+        },
+        {
+        "albumId": 3,
+        "bandId": 7,
+        "name": "...And Justce for All",
+        "year": 1988,
+        "url": "https://en.wikipedia.org/wiki/...And_Justice_for_All_(album)"
+        },
+        {
+        "albumId": 4,
+        "bandId": 1,
+        "name": "Use Your Illusion II",
+        "year": 1990,
+        "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion_II"
+        },
+        {
+        "albumId": 5,
+        "bandId": 3,
+        "name": "Ramones",
+        "year": 1976,
+        "url": "https://en.wikipedia.org/wiki/Ramones_(album)"
+        },
+        {
+        "albumId": 6,
+        "bandId": 5,
+        "name": "Saints of Los Angeles",
+        "year": 2008,
+        "url": "https://en.wikipedia.org/wiki/Saints_of_Los_Angeles"
+        },
+        {
+        "albumId": 7,
+        "bandId": 6,
+        "name": "Rage Against the Machine",
+        "year": 1992,
+        "url": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)"
+        }
+]
